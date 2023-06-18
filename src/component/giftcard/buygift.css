@@ -1,0 +1,34 @@
+.divapply3{
+    padding-left: 20px;
+    width: 100%;
+    height: 200px;
+    padding-top: 20px;
+    background-color: black;
+   
+}
+.divapply3h1{
+ color: aliceblue;
+}
+.modalcon3{
+    text-align: center;
+}
+.applynow3 {
+    width: 400px;
+    height: 60px;
+    border: 1px solid black;
+    color: black;
+    background-color: #ccff02;
+    text-align: center;
+    background-image: linear-gradient(to right, #ccff02 50%, transparent 50%);
+    background-size: 200% 100%;
+    transition: background-position 0.5s;
+  
+  }
+  
+
+  
+  .applynow3:hover {
+    background-position: -100% 0;
+    color: #ccff02;
+    background-color:  black;
+  }
